@@ -21,17 +21,17 @@ We believe it can serve as a strong benchmark for future research in **behavior 
 
 <table>
   <tr>
-    <td><img src="example_training_demo/domain_0_example_video.gif" width="240"/></td>
-    <td><img src="example_training_demo/domain_7_example_video.gif" width="240"/></td>
-    <td><img src="example_training_demo/domain_13_example_video.gif" width="240"/></td>
-    <td><img src="example_training_demo/domain_15_example_video.gif" width="240"/></td>
+    <td><img src="example_training_demo/domain_0_example_video.gif" width="180"/></td>
+    <td><img src="example_training_demo/domain_7_example_video.gif" width="180"/></td>
+    <td><img src="example_training_demo/domain_13_example_video.gif" width="180"/></td>
+    <td><img src="example_training_demo/domain_15_example_video.gif" width="180"/></td>
   </tr>
 
   <tr>
-    <td><img src="example_training_demo/domain_18_example_video" width="240"/></td>
-    <td><img src="example_training_demo/domain_20_example_video" width="240"/></td>
-    <td><img src="example_training_demo/domain_21_example_video" width="240"/></td>
-    <td><img src="example_training_demo/domain_22_example_video" width="240"/></td>
+    <td><img src="example_training_demo/domain_18_example_video.gif" width="180"/></td>
+    <td><img src="example_training_demo/domain_20_example_video.gif" width="180"/></td>
+    <td><img src="example_training_demo/domain_21_example_video.gif" width="180"/></td>
+    <td><img src="example_training_demo/domain_22_example_video.gif" width="180"/></td>
   </tr>
 </table>
 
