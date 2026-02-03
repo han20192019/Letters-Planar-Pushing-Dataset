@@ -1,0 +1,9 @@
+domain_id: 7
+object: T
+block_color: Gold
+target_color: MediumSeaGreen
+bg_color: White
+obstacle_color: Gray
+block_scale: 30
+num_mislead: 1
+num_obstacle: 0
